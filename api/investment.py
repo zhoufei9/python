@@ -4,10 +4,12 @@ from flask import Blueprint, request
 from lxml import etree
 import time
 import requests
+import json
+import tushare as ts
 from db.mysqlClient import DB
 
 investment = Blueprint('investment',__name__)
- 
+
 def get_proxy():
     return requests.get("http://127.0.0.1:5010/proxy/get/").json()
 
@@ -24,20 +26,49 @@ def get_headers():
                       "AppleWebKit/537.36 (KHTML, like Gecko) "
                       "Chrome/74.0.3729.169 Safari/537.36"
     }
-    
+
     return headers
+
+@investment.route('/collectionShares/')
+def collectionShares():
+    #ts.set_token('fcb2d8e45337e29af338d5935c401586d507d7f200bc81cce703c938')
+    # pro = ts.pro_api()
+    # data = pro.query('stock_basic', exchange='', list_status='L', fields='symbol,name,area,industry,market,list_date')
+    # items = json.loads(data.to_json(orient='records'))
+    #
+    # shares_list = DB('shares').query('select code from shares').fetchall()
+    # shares_code_map = []
+    # for shares in shares_list:
+    #     shares_code_map.append(shares['code'])
+    #
+    # for i in items:
+    #     print(i)
+    #     print(i['symbol'])
+    #     if i['symbol'] not in shares_code_map:
+    #         DB('shares').insert({'code': i['symbol'], 'name': i['name'], 'area': i['area'], 'industry': i['industry'], 'market': i['market'], 'list_date': i['list_date']})
+    #     else:
+    #         DB('shares').where('code', i['symbol']).update({'area': i['area'], 'industry': i['industry'], 'market': i['market'], 'list_date': i['list_date']})
+
+    data = ts.get_today_all()
+    print(data)
+    items = json.loads(data.to_json(orient='records'))
+    for i in items:
+        DB('shares').where('code', i['code']).update({'turnoverratio': i['turnoverratio'], 'amount': i['amount'], 'per': i['per'], 'pb': i['pb'], 'mktcap': i['mktcap'], 'nmc': i['nmc']})
+
+    return {"code": 0, "msg": 'collectionShares'}
+
 
 @investment.route('/collectionHotTop100/')
 def collectionHotTop100():
-    #date = time.strftime("%Y-%m-%d") 
-    date = '2021-01-08'
+    date = time.strftime("%Y-%m-%d")
+    # date = '2021-01-08'
 
     # retry_count = 5
     # proxy = get_proxy().get("proxy")
     # headers = get_headers()
     # print(proxy)
     # print(headers)
-    # 
+    #
     # while retry_count > 0:
     #     try:
     #         html = requests.get('https://vipmoney.eastmoney.com/collect/stockranking/pages/ranking/list.html?fc=SZ002571', proxies={"https": "https://{}".format(proxy)}, headers=headers)
@@ -51,16 +82,16 @@ def collectionHotTop100():
     #             # 删除代理池中代理
     #             delete_proxy(proxy)
     #             return {"code": 10000, "msg": proxy + '请求失败已删除'}
-    
+
     with open('Text-1.txt') as text:
         textz = text.read()
     html = etree.HTML(textz)
     items = html.xpath('//div[@class="item"]')
- 
+
     shares_list = DB('shares').query('select code from shares').fetchall()
     shares_code_map = []
     for shares in shares_list:
-        shares_code_map.append(shares['code'])  
+        shares_code_map.append(shares['code'])
 
     check_data = 0
     add_data = []
@@ -74,7 +105,7 @@ def collectionHotTop100():
         price = item.xpath('./ul/li[3]/text()')[0] if item.xpath('./ul/li[3]/text()') else ''
         up_or_down = item.xpath('./ul/li[4]/text()')[0] if item.xpath('./ul/li[4]/text()') else ''
         hot = item.xpath('./div/p/text()')[0] if item.xpath('./div/p/text()') else ''
-        
+
         # 判断第一名是否跟上一个排行数据一致 一致终止执行
         if check_data == 0:
             LatestData = DB('sharesHotTop100').where('code', code).order('id desc').find()
@@ -87,19 +118,19 @@ def collectionHotTop100():
                 LatestData['hot'] == hot and LatestData['date'] == date :
                     return {"code": 0, "msg": '已存在数据 或许今天是休息日'}
             check_data = 1
-            
+
         add_data.append({'code': code,'price': price,'up_or_down': up_or_down,'hot_ranking': hot_ranking,'hot': hot,'date': date})
-       
+
         # 不存在的股票新增
         if code not in shares_code_map:
            DB('shares').insert({'code': code, 'name': name})
-    
+
     # 批量插入数据  发生错误时忽略 股票代码和日期加了唯一索引 一般是不唯一报错
     success_num = DB('sharesHotTop100').insert(add_data)
     print(success_num)
-    
+
     if isinstance(success_num, int):
         for i in add_data:
             DB('shares').where('code', i['code']).increment('hotTop100_count')
-   
+
     return {"code": 0, "msg": 'xxx'}

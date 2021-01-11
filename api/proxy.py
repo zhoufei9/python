@@ -12,16 +12,6 @@ proxy = Blueprint('proxy',__name__)
 
 proxy_handler = ProxyHandler()
 
-class JsonResponse(Response):
-    @classmethod
-    def force_type(cls, response, environ=None):
-        if isinstance(response, (dict, list)):
-            response = jsonify(response)
-        return super(JsonResponse, cls).force_type(response, environ)
-
-proxy.response_class = JsonResponse
-
-
 @proxy.route('/')
 def index():
     api_list = {

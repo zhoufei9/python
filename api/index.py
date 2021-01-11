@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 
 import platform
-from flask import Flask
+from flask import Flask, jsonify
 from util.six import iteritems
 from werkzeug.wrappers import Response
 

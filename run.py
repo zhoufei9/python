@@ -39,7 +39,7 @@ def server():
     """ 启动api服务 """
     click.echo(BANNER)
     click.echo("VERSION: %s\n" % VERSION)
-    from api.enter import runFlask
+    from api.index import runFlask
     runFlask()
 
 
