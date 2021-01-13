@@ -8,8 +8,11 @@ sql 	必填	需要执行的sql语句
 tuple_value	非必填	需要替换占位符的元组
 该方法是执行sql语句，返回执行成功后的游标状态
 
-例1：res = DB('user').query('select * from user') res.fetchall()
-例2：res = DB('user').query('select * from user where id = %s', (7,)) res.fetchone()
+例1：res = DB('user').query('select * from user')
+res.fetchall()
+例2：res = DB('user').query('select * from user where id = %s', (7,))
+res.fetchone()
+
 新增数据
 insert(data)
 参数	必填	说明

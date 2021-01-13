@@ -57,6 +57,7 @@ def runFlask():
 
         _options = {
             'bind': '%s:%s' % (conf.serverHost, conf.serverPort),
+            'timeout': 300,
             'workers': 4,
             'accesslog': '-',  # log to stdout
             'access_log_format': '%(h)s %(l)s %(t)s "%(r)s" %(s)s "%(a)s"'

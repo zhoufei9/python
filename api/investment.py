@@ -5,6 +5,7 @@ from lxml import etree
 import time
 import requests
 import json
+from setting import SHARES_TOKEN
 import tushare as ts
 from db.mysqlClient import DB
 
@@ -29,34 +30,46 @@ def get_headers():
 
     return headers
 
+
+# 更新股票基本信息 每日一次
 @investment.route('/collectionShares/')
 def collectionShares():
-    #ts.set_token('fcb2d8e45337e29af338d5935c401586d507d7f200bc81cce703c938')
-    # pro = ts.pro_api()
-    # data = pro.query('stock_basic', exchange='', list_status='L', fields='symbol,name,area,industry,market,list_date')
-    # items = json.loads(data.to_json(orient='records'))
-    #
-    # shares_list = DB('shares').query('select code from shares').fetchall()
-    # shares_code_map = []
-    # for shares in shares_list:
-    #     shares_code_map.append(shares['code'])
-    #
-    # for i in items:
-    #     print(i)
-    #     print(i['symbol'])
-    #     if i['symbol'] not in shares_code_map:
-    #         DB('shares').insert({'code': i['symbol'], 'name': i['name'], 'area': i['area'], 'industry': i['industry'], 'market': i['market'], 'list_date': i['list_date']})
-    #     else:
-    #         DB('shares').where('code', i['symbol']).update({'area': i['area'], 'industry': i['industry'], 'market': i['market'], 'list_date': i['list_date']})
-
-    data = ts.get_today_all()
-    print(data)
+    # 更新所有基础信息
+    ts.set_token(SHARES_TOKEN)
+    pro = ts.pro_api()
+    data = pro.query('stock_basic', exchange='', list_status='L', fields='symbol,name,area,industry,market,list_date')
     items = json.loads(data.to_json(orient='records'))
+
+    shares_list = DB('shares').query('select code from shares').fetchall()
+    shares_code_map = []
+    for shares in shares_list:
+        shares_code_map.append(shares['code'])
+
     for i in items:
-        DB('shares').where('code', i['code']).update({'turnoverratio': i['turnoverratio'], 'amount': i['amount'], 'per': i['per'], 'pb': i['pb'], 'mktcap': i['mktcap'], 'nmc': i['nmc']})
+        if i['symbol'] not in shares_code_map:
+            DB('shares').insert({'code': i['symbol'], 'name': i['name'], 'area': i['area'], 'industry': i['industry'], 'market': i['market'], 'list_date': i['list_date']})
+        # else:
+        #     DB('shares').where('code', i['symbol']).update({'area': i['area'], 'industry': i['industry'], 'market': i['market'], 'list_date': i['list_date']})
 
-    return {"code": 0, "msg": 'collectionShares'}
+    print('更新换手率、市盈率、市值等')
+    data = ts.get_today_all()
 
+    print('保存本地')
+    data.to_json('collectionShares.json', orient='records')
+    print('to_json')
+    items = json.loads(data.to_json(orient='records'))
+    print('update shares')
+    for i in items:
+        DB('shares').where('code', i['code']).update({'turnoverratio': i['turnoverratio'], 'amount': str(round((int(i['amount'])/100000000), 2)), 'per': i['per'], 'pb': i['pb'], 'mktcap': str(int((int(i['mktcap'])/10000))), 'nmc': str(int((int(i['nmc'])/10000)))})
+
+    return {"code": 0, "msg": 'collectionShares ok'}
+
+# 修复排行榜统计数据
+@investment.route('/fixHotTop100/')
+def fixHotTop100():
+
+
+    return {"code": 0, "msg": 'fixHotTop100 ok'}
 
 @investment.route('/collectionHotTop100/')
 def collectionHotTop100():
@@ -83,7 +96,7 @@ def collectionHotTop100():
     #             delete_proxy(proxy)
     #             return {"code": 10000, "msg": proxy + '请求失败已删除'}
 
-    with open('Text-1.txt') as text:
+    with open('collectionHotTop100.txt') as text:
         textz = text.read()
     html = etree.HTML(textz)
     items = html.xpath('//div[@class="item"]')
@@ -106,7 +119,7 @@ def collectionHotTop100():
         up_or_down = item.xpath('./ul/li[4]/text()')[0] if item.xpath('./ul/li[4]/text()') else ''
         hot = item.xpath('./div/p/text()')[0] if item.xpath('./div/p/text()') else ''
 
-        # 判断第一名是否跟上一个排行数据一致 一致终止执行
+        # 判断第一名是否跟上一个排行数据一致 一致终止执行(可能是误操作重复添加 或者节假日)
         if check_data == 0:
             LatestData = DB('sharesHotTop100').where('code', code).order('id desc').find()
             print(LatestData)
@@ -133,4 +146,4 @@ def collectionHotTop100():
         for i in add_data:
             DB('shares').where('code', i['code']).increment('hotTop100_count')
 
-    return {"code": 0, "msg": 'xxx'}
+    return {"code": 0, "msg": 'collectionHotTop100 ok'}

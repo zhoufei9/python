@@ -61,18 +61,18 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>比亚迪</span><br>
+                <span>中国中车</span><br>
                 <p>
-                    <span class="code">002594</span><i class="icon-rong">融</i>
+                    <span class="code">601766</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">234.86</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.23%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">6.94</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.98%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
             <div class="hot">
-                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2479">#比亚迪半导体筹划分拆上市#</p>
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2518">#“中字头”股票飙涨#</p>
                 <span class="icon-close"></span>
             </div>
 
@@ -87,13 +87,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>格林美</span><br>
+                <span>东方财富</span><br>
                 <p>
-                    <span class="code">002340</span><i class="icon-rong">融</i>
+                    <span class="code">300059</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">9.16</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.11%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">38.86</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.78%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -104,19 +104,24 @@
 
                 <li>
                     <span class="rank-num">3</span>
-                    <span><span class="icon-rise"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>金龙鱼</span><br>
+                <span>TCL科技</span><br>
                 <p>
-                    <span class="code">300999</span><i class="icon-rong">融</i>
+                    <span class="code">000100</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">128.61</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-11.30%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">9.24</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.44%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
+
+            <div class="hot">
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2513">#TCL科技2020年净利预增近七...#</p>
+                <span class="icon-close"></span>
+            </div>
 
     </div>
 
@@ -125,22 +130,22 @@
 
                 <li>
                     <span class="rank-num">4</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>天齐锂业</span><br>
+                <span>三一重工</span><br>
                 <p>
-                    <span class="code">002466</span><i class="icon-rong">融</i>
+                    <span class="code">600031</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">52.56</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">44.20</li>
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-3.28%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
             <div class="hot">
-                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2503">#天齐锂业控股股东拟减持股份#</p>
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2517">#三一重工市值破四千亿#</p>
                 <span class="icon-close"></span>
             </div>
 
@@ -151,24 +156,19 @@
 
                 <li>
                     <span class="rank-num">5</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>贵州茅台</span><br>
+                <span>京东方Ａ</span><br>
                 <p>
-                    <span class="code">600519</span><i class="icon-rong">融</i>
+                    <span class="code">000725</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">2099.73</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.47%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">7.02</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.86%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
-
-            <div class="hot">
-                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2414">#茅台系列酒新年提价减量#</p>
-                <span class="icon-close"></span>
-            </div>
 
     </div>
 
@@ -181,13 +181,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>三一重工</span><br>
+                <span>天齐锂业</span><br>
                 <p>
-                    <span class="code">600031</span><i class="icon-rong">融</i>
+                    <span class="code">002466</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">41.88</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.74%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">59.50</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.91%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -202,15 +202,20 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>赣锋锂业</span><br>
+                <span>比亚迪</span><br>
                 <p>
-                    <span class="code">002460</span><i class="icon-rong">融</i>
+                    <span class="code">002594</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">126.25</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.09%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">239.30</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.97%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
+
+            <div class="hot">
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2512">#新能源估值泡沫引争议#</p>
+                <span class="icon-close"></span>
+            </div>
 
     </div>
 
@@ -223,13 +228,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>东方财富</span><br>
+                <span>郑州煤电</span><br>
                 <p>
-                    <span class="code">300059</span><i class="icon-rong">融</i>
+                    <span class="code">600121</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">33.03</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.57%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">8.25</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">6.18%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -244,20 +249,15 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>三安光电</span><br>
+                <span>中兴通讯</span><br>
                 <p>
-                    <span class="code">600703</span><i class="icon-rong">融</i>
+                    <span class="code">000063</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">33.01</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.20%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">36.72</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.96%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
-
-            <div class="hot">
-                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2511">#半导体板块走高#</p>
-                <span class="icon-close"></span>
-            </div>
 
     </div>
 
@@ -266,19 +266,24 @@
 
                 <li>
                     <span class="rank-num">10</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-rise"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>晋控电力</span><br>
+                <span>中远海控</span><br>
                 <p>
-                    <span class="code">000767</span><i class="icon-rong">融</i>
+                    <span class="code">601919</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">4.79</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.27%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">17.06</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.99%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
+
+            <div class="hot">
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2518">#“中字头”股票飙涨#</p>
+                <span class="icon-close"></span>
+            </div>
 
     </div>
 
@@ -287,24 +292,19 @@
 
                 <li>
                     <span class="rank-num">11</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-fall"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>宁德时代</span><br>
+                <span>金龙鱼</span><br>
                 <p>
-                    <span class="code">300750</span><i class="icon-rong">融</i>
+                    <span class="code">300999</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">390.00</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-3.58%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">119.90</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-7.63%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
-
-            <div class="hot">
-                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2492">#宁德时代总市值超9000亿元#</p>
-                <span class="icon-close"></span>
-            </div>
 
     </div>
 
@@ -317,15 +317,20 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>长城汽车</span><br>
+                <span>贵州茅台</span><br>
                 <p>
-                    <span class="code">601633</span><i class="icon-rong">融</i>
+                    <span class="code">600519</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">46.12</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">8.52%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">2164.00</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.14%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
+
+            <div class="hot">
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2409">#贵州茅台又创新高了#</p>
+                <span class="icon-close"></span>
+            </div>
 
     </div>
 
@@ -334,17 +339,17 @@
 
                 <li>
                     <span class="rank-num">13</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>隆基股份</span><br>
+                <span>巨力索具</span><br>
                 <p>
-                    <span class="code">601012</span><i class="icon-rong">融</i>
+                    <span class="code">002342</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">106.15</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-3.85%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">6.39</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.98%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -355,17 +360,17 @@
 
                 <li>
                     <span class="rank-num">14</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>歌尔股份</span><br>
+                <span>格林美</span><br>
                 <p>
-                    <span class="code">002241</span><i class="icon-rong">融</i>
+                    <span class="code">002340</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">41.40</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.50%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">8.39</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-9.40%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -376,17 +381,17 @@
 
                 <li>
                     <span class="rank-num">15</span>
-                    <span><span class="icon-fall"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>招商银行</span><br>
+                <span>长电科技</span><br>
                 <p>
-                    <span class="code">600036</span><i class="icon-rong">融</i>
+                    <span class="code">600584</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">48.42</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.91%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">46.37</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.86%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -397,17 +402,17 @@
 
                 <li>
                     <span class="rank-num">16</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>福耀玻璃</span><br>
+                <span>中远海发</span><br>
                 <p>
-                    <span class="code">600660</span><i class="icon-rong">融</i>
+                    <span class="code">601866</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">56.63</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.00%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">3.44</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.90%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -418,17 +423,17 @@
 
                 <li>
                     <span class="rank-num">17</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>长安汽车</span><br>
+                <span>华天科技</span><br>
                 <p>
-                    <span class="code">000625</span><i class="icon-rong">融</i>
+                    <span class="code">002185</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">23.16</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-1.15%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">14.96</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.55%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -439,19 +444,24 @@
 
                 <li>
                     <span class="rank-num">18</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-rise"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>豫园股份</span><br>
+                <span>中国化学</span><br>
                 <p>
-                    <span class="code">600655</span><i class="icon-rong">融</i>
+                    <span class="code">601117</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">13.91</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.86%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">6.25</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.04%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
+
+            <div class="hot">
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2518">#“中字头”股票飙涨#</p>
+                <span class="icon-close"></span>
+            </div>
 
     </div>
 
@@ -460,17 +470,17 @@
 
                 <li>
                     <span class="rank-num">19</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-fall"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>英科医疗</span><br>
+                <span>招商证券</span><br>
                 <p>
-                    <span class="code">300677</span>
+                    <span class="code">600999</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">226.60</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">15.98%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">26.68</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.42%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -485,13 +495,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>四维图新</span><br>
+                <span>潍柴动力</span><br>
                 <p>
-                    <span class="code">002405</span><i class="icon-rong">融</i>
+                    <span class="code">000338</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">15.62</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.00%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">18.92</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.68%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -502,17 +512,17 @@
 
                 <li>
                     <span class="rank-num">21</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>京东方Ａ</span><br>
+                <span>歌尔股份</span><br>
                 <p>
-                    <span class="code">000725</span><i class="icon-rong">融</i>
+                    <span class="code">002241</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">6.39</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-0.62%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">43.01</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.92%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -523,17 +533,17 @@
 
                 <li>
                     <span class="rank-num">22</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>江苏国信</span><br>
+                <span>南方轴承</span><br>
                 <p>
-                    <span class="code">002608</span><i class="icon-rong">融</i>
+                    <span class="code">002553</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">7.85</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.94%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">12.50</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.04%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -544,17 +554,17 @@
 
                 <li>
                     <span class="rank-num">23</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>豫能控股</span><br>
+                <span>酒鬼酒</span><br>
                 <p>
-                    <span class="code">001896</span><i class="icon-rong">融</i>
+                    <span class="code">000799</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">9.31</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.05%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">228.38</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.77%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -565,22 +575,43 @@
 
                 <li>
                     <span class="rank-num">24</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>五 粮 液</span><br>
+                <span>北方华创</span><br>
                 <p>
-                    <span class="code">000858</span><i class="icon-rong">融</i>
+                    <span class="code">002371</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">301.20</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-4.98%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">223.20</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">8.20%</li>
+            <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
+        </ul>
+
+    </div>
+
+    <div class="item">
+        <ul>
+
+                <li>
+                    <span class="rank-num">25</span>
+                    <span><span class=""></span></span>
+                </li>
+
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
+                <span>隆基股份</span><br>
+                <p>
+                    <span class="code">601012</span><i class="icon-rong">融</i>
+                </p>
+            </li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">108.18</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-1.61%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
             <div class="hot">
-                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2491">#茅台和五粮液创历史新高#</p>
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2512">#新能源估值泡沫引争议#</p>
                 <span class="icon-close"></span>
             </div>
 
@@ -590,39 +621,18 @@
         <ul>
 
                 <li>
-                    <span class="rank-num">25</span>
-                    <span><span class="icon-rise"></span>1</span>
-                </li>
-
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>TCL科技</span><br>
-                <p>
-                    <span class="code">000100</span><i class="icon-rong">融</i>
-                </p>
-            </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">7.82</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.69%</li>
-            <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
-        </ul>
-
-    </div>
-
-    <div class="item">
-        <ul>
-
-                <li>
                     <span class="rank-num">26</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>金发科技</span><br>
+                <span>中信证券</span><br>
                 <p>
-                    <span class="code">600143</span><i class="icon-rong">融</i>
+                    <span class="code">600030</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">21.40</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">6.26%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">30.95</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-3.37%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -633,17 +643,17 @@
 
                 <li>
                     <span class="rank-num">27</span>
-                    <span><span class="icon-rise"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中兴通讯</span><br>
+                <span>立讯精密</span><br>
                 <p>
-                    <span class="code">000063</span><i class="icon-rong">融</i>
+                    <span class="code">002475</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">34.93</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.04%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">62.11</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.88%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -654,19 +664,24 @@
 
                 <li>
                     <span class="rank-num">28</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中国中车</span><br>
+                <span>宁德时代</span><br>
                 <p>
-                    <span class="code">601766</span><i class="icon-rong">融</i>
+                    <span class="code">300750</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">6.14</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.24%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">385.00</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-4.03%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
+
+            <div class="hot">
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2512">#新能源估值泡沫引争议#</p>
+                <span class="icon-close"></span>
+            </div>
 
     </div>
 
@@ -675,19 +690,24 @@
 
                 <li>
                     <span class="rank-num">29</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class="icon-rise"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>上汽集团</span><br>
+                <span>中国重汽</span><br>
                 <p>
-                    <span class="code">600104</span><i class="icon-rong">融</i>
+                    <span class="code">000951</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">26.43</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.44%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">37.76</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.99%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
+
+            <div class="hot">
+                <p tracker-code="vip_dfcfrqb_bd_rd" data-id="2518">#“中字头”股票飙涨#</p>
+                <span class="icon-close"></span>
+            </div>
 
     </div>
 
@@ -696,17 +716,17 @@
 
                 <li>
                     <span class="rank-num">30</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-fall"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>南方轴承</span><br>
+                <span>航发动力</span><br>
                 <p>
-                    <span class="code">002553</span>
+                    <span class="code">600893</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">10.33</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.01%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">77.90</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.14%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -721,13 +741,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>蓝思科技</span><br>
+                <span>赣锋锂业</span><br>
                 <p>
-                    <span class="code">300433</span><i class="icon-rong">融</i>
+                    <span class="code">002460</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">37.00</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.81%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">126.12</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-8.55%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -738,17 +758,17 @@
 
                 <li>
                     <span class="rank-num">32</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>洛阳钼业</span><br>
+                <span>中联重科</span><br>
                 <p>
-                    <span class="code">603993</span><i class="icon-rong">融</i>
+                    <span class="code">000157</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">6.76</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-8.65%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">12.65</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.02%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -759,17 +779,17 @@
 
                 <li>
                     <span class="rank-num">33</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中航西飞</span><br>
+                <span>航天电子</span><br>
                 <p>
-                    <span class="code">000768</span><i class="icon-rong">融</i>
+                    <span class="code">600879</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">38.79</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.08%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">9.08</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.77%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -780,17 +800,17 @@
 
                 <li>
                     <span class="rank-num">34</span>
-                    <span><span class="icon-rise"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>立讯精密</span><br>
+                <span>太阳能</span><br>
                 <p>
-                    <span class="code">002475</span><i class="icon-rong">融</i>
+                    <span class="code">000591</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">61.00</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.65%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">7.32</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.38%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -801,17 +821,17 @@
 
                 <li>
                     <span class="rank-num">35</span>
-                    <span><span class="icon-rise"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>老白干酒</span><br>
+                <span>长城汽车</span><br>
                 <p>
-                    <span class="code">600559</span><i class="icon-rong">融</i>
+                    <span class="code">601633</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">32.01</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-8.96%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">49.81</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.13%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -822,17 +842,17 @@
 
                 <li>
                     <span class="rank-num">36</span>
-                    <span><span class="icon-fall"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>北方稀土</span><br>
+                <span>蓝思科技</span><br>
                 <p>
-                    <span class="code">600111</span><i class="icon-rong">融</i>
+                    <span class="code">300433</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">14.29</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.48%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">39.58</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.97%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -843,17 +863,17 @@
 
                 <li>
                     <span class="rank-num">37</span>
-                    <span><span class="icon-fall"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>国轩高科</span><br>
+                <span>彩虹股份</span><br>
                 <p>
-                    <span class="code">002074</span><i class="icon-rong">融</i>
+                    <span class="code">600707</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">39.73</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-7.58%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">7.50</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.97%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -864,17 +884,17 @@
 
                 <li>
                     <span class="rank-num">38</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>太阳能</span><br>
+                <span>英科医疗</span><br>
                 <p>
-                    <span class="code">000591</span><i class="icon-rong">融</i>
+                    <span class="code">300677</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">7.13</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-5.06%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">243.99</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">6.10%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -885,17 +905,17 @@
 
                 <li>
                     <span class="rank-num">39</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>酒鬼酒</span><br>
+                <span>三安光电</span><br>
                 <p>
-                    <span class="code">000799</span><i class="icon-rong">融</i>
+                    <span class="code">600703</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">196.30</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.71%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">35.01</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.40%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -910,13 +930,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>海康威视</span><br>
+                <span>三全食品</span><br>
                 <p>
-                    <span class="code">002415</span><i class="icon-rong">融</i>
+                    <span class="code">002216</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">59.00</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.90%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">27.37</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.01%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -931,13 +951,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>巨力索具</span><br>
+                <span>中国中冶</span><br>
                 <p>
-                    <span class="code">002342</span>
+                    <span class="code">601618</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">5.28</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-10.05%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">3.26</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">6.54%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -952,13 +972,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>航发动力</span><br>
+                <span>中国平安</span><br>
                 <p>
-                    <span class="code">600893</span><i class="icon-rong">融</i>
+                    <span class="code">601318</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">69.55</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-6.29%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">87.54</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-0.32%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -973,13 +993,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>仁东控股</span><br>
+                <span>宜宾纸业</span><br>
                 <p>
-                    <span class="code">002647</span><i class="icon-rong">融</i>
+                    <span class="code">600793</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">10.24</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.91%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">14.52</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.00%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -994,13 +1014,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>浪潮信息</span><br>
+                <span>盛和资源</span><br>
                 <p>
-                    <span class="code">000977</span><i class="icon-rong">融</i>
+                    <span class="code">600392</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">30.17</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.29%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">11.72</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.05%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1015,13 +1035,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>韦尔股份</span><br>
+                <span>大北农</span><br>
                 <p>
-                    <span class="code">603501</span><i class="icon-rong">融</i>
+                    <span class="code">002385</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">276.24</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.85%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">11.51</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.31%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1036,13 +1056,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>和而泰</span><br>
+                <span>豫园股份</span><br>
                 <p>
-                    <span class="code">002402</span><i class="icon-rong">融</i>
+                    <span class="code">600655</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">19.22</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.02%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">14.21</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.26%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1057,13 +1077,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>闻泰科技</span><br>
+                <span>东信和平</span><br>
                 <p>
-                    <span class="code">600745</span><i class="icon-rong">融</i>
+                    <span class="code">002017</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">112.04</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.70%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">11.99</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.00%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1074,17 +1094,17 @@
 
                 <li>
                     <span class="rank-num">48</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class="icon-rise"></span>2</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>三七互娱</span><br>
+                <span>格力地产</span><br>
                 <p>
-                    <span class="code">002555</span><i class="icon-rong">融</i>
+                    <span class="code">600185</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">35.15</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.81%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">6.56</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.07%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1095,17 +1115,17 @@
 
                 <li>
                     <span class="rank-num">49</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>海螺水泥</span><br>
+                <span>中国核电</span><br>
                 <p>
-                    <span class="code">600585</span><i class="icon-rong">融</i>
+                    <span class="code">601985</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">56.51</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.11%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">5.25</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.36%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1116,17 +1136,17 @@
 
                 <li>
                     <span class="rank-num">50</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-fall"></span>2</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>联创电子</span><br>
+                <span>北方稀土</span><br>
                 <p>
-                    <span class="code">002036</span><i class="icon-rong">融</i>
+                    <span class="code">600111</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">11.51</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.04%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">15.33</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.36%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1141,13 +1161,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>士兰微</span><br>
+                <span>科大讯飞</span><br>
                 <p>
-                    <span class="code">600460</span><i class="icon-rong">融</i>
+                    <span class="code">002230</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">27.24</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-6.52%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">46.40</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.69%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1158,17 +1178,17 @@
 
                 <li>
                     <span class="rank-num">52</span>
-                    <span><span class="icon-rise"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>雅化集团</span><br>
+                <span>航天工程</span><br>
                 <p>
-                    <span class="code">002497</span><i class="icon-rong">融</i>
+                    <span class="code">603698</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">25.60</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-9.99%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">15.68</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.04%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1179,17 +1199,17 @@
 
                 <li>
                     <span class="rank-num">53</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>古越龙山</span><br>
+                <span>闻泰科技</span><br>
                 <p>
-                    <span class="code">600059</span><i class="icon-rong">融</i>
+                    <span class="code">600745</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">16.21</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-9.99%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">115.38</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.31%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1200,17 +1220,17 @@
 
                 <li>
                     <span class="rank-num">54</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中国平安</span><br>
+                <span>中晶科技</span><br>
                 <p>
-                    <span class="code">601318</span><i class="icon-rong">融</i>
+                    <span class="code">003026</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">84.03</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.40%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">95.78</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.00%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1225,13 +1245,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>通威股份</span><br>
+                <span>中国核建</span><br>
                 <p>
-                    <span class="code">600438</span><i class="icon-rong">融</i>
+                    <span class="code">601611</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">39.32</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-6.60%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">8.20</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">8.18%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1242,17 +1262,17 @@
 
                 <li>
                     <span class="rank-num">56</span>
-                    <span><span class="icon-rise"></span>2</span>
+                    <span><span class="icon-rise"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>牧原股份</span><br>
+                <span>士兰微</span><br>
                 <p>
-                    <span class="code">002714</span><i class="icon-rong">融</i>
+                    <span class="code">600460</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">89.01</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-7.93%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">28.76</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.28%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1267,13 +1287,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>苏宁环球</span><br>
+                <span>长安汽车</span><br>
                 <p>
-                    <span class="code">000718</span><i class="icon-rong">融</i>
+                    <span class="code">000625</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">4.82</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.05%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">21.69</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.47%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1284,17 +1304,17 @@
 
                 <li>
                     <span class="rank-num">58</span>
-                    <span><span class="icon-rise"></span>3</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>长电科技</span><br>
+                <span>东方电气</span><br>
                 <p>
-                    <span class="code">600584</span><i class="icon-rong">融</i>
+                    <span class="code">600875</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">43.52</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.55%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">11.35</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.98%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1305,17 +1325,17 @@
 
                 <li>
                     <span class="rank-num">59</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-rise"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>苏常柴Ａ</span><br>
+                <span>广东明珠</span><br>
                 <p>
-                    <span class="code">000570</span>
+                    <span class="code">600382</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">7.13</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.03%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">6.78</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.06%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1326,17 +1346,17 @@
 
                 <li>
                     <span class="rank-num">60</span>
-                    <span><span class="icon-fall"></span>3</span>
+                    <span><span class="icon-fall"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>盛和资源</span><br>
+                <span>豫能控股</span><br>
                 <p>
-                    <span class="code">600392</span><i class="icon-rong">融</i>
+                    <span class="code">001896</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">10.42</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">6.98%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">8.52</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.67%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1347,17 +1367,17 @@
 
                 <li>
                     <span class="rank-num">61</span>
-                    <span><span class="icon-rise"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>紫金矿业</span><br>
+                <span>华友钴业</span><br>
                 <p>
-                    <span class="code">601899</span><i class="icon-rong">融</i>
+                    <span class="code">603799</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">10.67</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-5.99%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">81.35</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-9.76%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1372,13 +1392,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>北方华创</span><br>
+                <span>洛阳钼业</span><br>
                 <p>
-                    <span class="code">002371</span><i class="icon-rong">融</i>
+                    <span class="code">603993</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">200.12</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">6.87%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">6.44</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-6.40%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1389,17 +1409,17 @@
 
                 <li>
                     <span class="rank-num">63</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>京运通</span><br>
+                <span>格力电器</span><br>
                 <p>
-                    <span class="code">601908</span><i class="icon-rong">融</i>
+                    <span class="code">000651</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">13.06</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-9.99%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">64.92</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.98%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1410,17 +1430,17 @@
 
                 <li>
                     <span class="rank-num">64</span>
-                    <span><span class="icon-fall"></span>4</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>天赐材料</span><br>
+                <span>隆利科技</span><br>
                 <p>
-                    <span class="code">002709</span><i class="icon-rong">融</i>
+                    <span class="code">300752</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">106.02</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-10.00%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">58.86</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">20.00%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1435,13 +1455,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>紫光股份</span><br>
+                <span>宁波东力</span><br>
                 <p>
-                    <span class="code">000938</span><i class="icon-rong">融</i>
+                    <span class="code">002164</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">23.41</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.26%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price ">8.80</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change ">0.00%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1456,13 +1476,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>郑州煤电</span><br>
+                <span>川能动力</span><br>
                 <p>
-                    <span class="code">600121</span>
+                    <span class="code">000155</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">8.23</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-1.32%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">10.25</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.22%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1473,17 +1493,17 @@
 
                 <li>
                     <span class="rank-num">67</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中芯国际-U</span><br>
+                <span>中环股份</span><br>
                 <p>
-                    <span class="code">688981</span><i class="icon-rong">融</i>
+                    <span class="code">002129</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">62.70</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.80%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">32.34</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.97%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1494,17 +1514,17 @@
 
                 <li>
                     <span class="rank-num">68</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>丹化科技</span><br>
+                <span>中国建筑</span><br>
                 <p>
-                    <span class="code">600844</span>
+                    <span class="code">601668</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">4.24</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.13%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">5.09</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.04%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1515,17 +1535,17 @@
 
                 <li>
                     <span class="rank-num">69</span>
-                    <span><span class="icon-fall"></span>2</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>特锐德</span><br>
+                <span>老白干酒</span><br>
                 <p>
-                    <span class="code">300001</span><i class="icon-rong">融</i>
+                    <span class="code">600559</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">38.36</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.09%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">31.41</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-5.16%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1540,13 +1560,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>伊利股份</span><br>
+                <span>五 粮 液</span><br>
                 <p>
-                    <span class="code">600887</span><i class="icon-rong">融</i>
+                    <span class="code">000858</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">48.64</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-1.28%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">305.33</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-1.51%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1557,17 +1577,17 @@
 
                 <li>
                     <span class="rank-num">71</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>达安基因</span><br>
+                <span>紫金矿业</span><br>
                 <p>
-                    <span class="code">002030</span><i class="icon-rong">融</i>
+                    <span class="code">601899</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">36.93</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.06%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">10.68</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.02%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1578,17 +1598,17 @@
 
                 <li>
                     <span class="rank-num">72</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>上海电气</span><br>
+                <span>朗科智能</span><br>
                 <p>
-                    <span class="code">601727</span><i class="icon-rong">融</i>
+                    <span class="code">300543</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">5.55</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-8.72%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">14.15</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">20.02%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1603,13 +1623,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中晶科技</span><br>
+                <span>京运通</span><br>
                 <p>
-                    <span class="code">003026</span>
+                    <span class="code">601908</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">82.49</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">8.58%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">12.47</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-9.96%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1624,13 +1644,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>大北农</span><br>
+                <span>上海机场</span><br>
                 <p>
-                    <span class="code">002385</span><i class="icon-rong">融</i>
+                    <span class="code">600009</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">11.07</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.56%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">77.59</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.25%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1645,13 +1665,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>金种子酒</span><br>
+                <span>海螺水泥</span><br>
                 <p>
-                    <span class="code">600199</span><i class="icon-rong">融</i>
+                    <span class="code">600585</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">16.99</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-9.43%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">57.30</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.63%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1662,17 +1682,17 @@
 
                 <li>
                     <span class="rank-num">76</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>华友钴业</span><br>
+                <span>秀强股份</span><br>
                 <p>
-                    <span class="code">603799</span><i class="icon-rong">融</i>
+                    <span class="code">300160</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">86.41</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-8.95%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">7.86</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">14.74%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1683,17 +1703,17 @@
 
                 <li>
                     <span class="rank-num">77</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>东信和平</span><br>
+                <span>扬杰科技</span><br>
                 <p>
-                    <span class="code">002017</span><i class="icon-rong">融</i>
+                    <span class="code">300373</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">10.47</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.98%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">53.18</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.22%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1704,17 +1724,17 @@
 
                 <li>
                     <span class="rank-num">78</span>
-                    <span><span class="icon-rise"></span>9</span>
+                    <span><span class="icon-rise"></span>3</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>国盛金控</span><br>
+                <span>赛轮轮胎</span><br>
                 <p>
-                    <span class="code">002670</span><i class="icon-rong">融</i>
+                    <span class="code">601058</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">12.37</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.37%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">8.89</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.02%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1725,17 +1745,17 @@
 
                 <li>
                     <span class="rank-num">79</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-rise"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中信证券</span><br>
+                <span>华中数控</span><br>
                 <p>
-                    <span class="code">600030</span><i class="icon-rong">融</i>
+                    <span class="code">300161</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">29.28</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.59%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">19.22</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">19.98%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1746,17 +1766,17 @@
 
                 <li>
                     <span class="rank-num">80</span>
-                    <span><span class="icon-fall"></span>2</span>
+                    <span><span class="icon-fall"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>横店东磁</span><br>
+                <span>兆易创新</span><br>
                 <p>
-                    <span class="code">002056</span><i class="icon-rong">融</i>
+                    <span class="code">603986</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">16.29</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">6.47%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">215.13</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.36%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1767,17 +1787,17 @@
 
                 <li>
                     <span class="rank-num">81</span>
-                    <span><span class=""></span></span>
+                    <span><span class="icon-fall"></span>3</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>华兰生物</span><br>
+                <span>晋控电力</span><br>
                 <p>
-                    <span class="code">002007</span><i class="icon-rong">融</i>
+                    <span class="code">000767</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">49.95</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-0.87%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">4.08</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-5.34%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1792,13 +1812,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中金公司</span><br>
+                <span>通威股份</span><br>
                 <p>
-                    <span class="code">601995</span>
+                    <span class="code">600438</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">68.01</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-4.45%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">39.35</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.62%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1813,13 +1833,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>万  科Ａ</span><br>
+                <span>上汽集团</span><br>
                 <p>
-                    <span class="code">000002</span><i class="icon-rong">融</i>
+                    <span class="code">600104</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">29.78</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.50%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">25.05</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-4.24%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1830,17 +1850,17 @@
 
                 <li>
                     <span class="rank-num">84</span>
-                    <span><span class="icon-fall"></span>4</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>迪安诊断</span><br>
+                <span>信维通信</span><br>
                 <p>
-                    <span class="code">300244</span><i class="icon-rong">融</i>
+                    <span class="code">300136</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">41.40</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.99%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">40.91</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.93%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1851,17 +1871,17 @@
 
                 <li>
                     <span class="rank-num">85</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>数知科技</span><br>
+                <span>伊利股份</span><br>
                 <p>
-                    <span class="code">300038</span><i class="icon-rong">融</i>
+                    <span class="code">600887</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">4.42</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.50%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">48.59</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.17%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1872,17 +1892,17 @@
 
                 <li>
                     <span class="rank-num">86</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class="icon-rise"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>分众传媒</span><br>
+                <span>工业富联</span><br>
                 <p>
-                    <span class="code">002027</span><i class="icon-rong">融</i>
+                    <span class="code">601138</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">11.34</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.85%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">15.18</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.19%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1897,13 +1917,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中远海控</span><br>
+                <span>光启技术</span><br>
                 <p>
-                    <span class="code">601919</span><i class="icon-rong">融</i>
+                    <span class="code">002625</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">15.84</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.60%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">28.20</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.52%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1914,17 +1934,17 @@
 
                 <li>
                     <span class="rank-num">88</span>
-                    <span><span class="icon-rise"></span>8</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>宁波东力</span><br>
+                <span>盛屯矿业</span><br>
                 <p>
-                    <span class="code">002164</span>
+                    <span class="code">600711</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">8.00</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.04%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">7.69</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-9.85%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1935,17 +1955,17 @@
 
                 <li>
                     <span class="rank-num">89</span>
-                    <span><span class="icon-rise"></span>3</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>甘李药业</span><br>
+                <span>中国联通</span><br>
                 <p>
-                    <span class="code">603087</span>
+                    <span class="code">600050</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">159.08</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-5.31%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">4.63</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">4.04%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1956,17 +1976,17 @@
 
                 <li>
                     <span class="rank-num">90</span>
-                    <span><span class="icon-fall"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>斯达半导</span><br>
+                <span>中金公司</span><br>
                 <p>
-                    <span class="code">603290</span>
+                    <span class="code">601995</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">282.08</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.17%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">70.27</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-4.54%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1977,17 +1997,17 @@
 
                 <li>
                     <span class="rank-num">91</span>
-                    <span><span class="icon-fall"></span>3</span>
+                    <span><span class="icon-rise"></span>2</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>兆驰股份</span><br>
+                <span>郑煤机</span><br>
                 <p>
-                    <span class="code">002429</span><i class="icon-rong">融</i>
+                    <span class="code">601717</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">6.76</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.52%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">12.73</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">10.03%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -1998,17 +2018,17 @@
 
                 <li>
                     <span class="rank-num">92</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class="icon-fall"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>江西铜业</span><br>
+                <span>恩捷股份</span><br>
                 <p>
-                    <span class="code">600362</span><i class="icon-rong">融</i>
+                    <span class="code">002812</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">23.10</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-7.00%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">136.45</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">5.63%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -2019,17 +2039,17 @@
 
                 <li>
                     <span class="rank-num">93</span>
-                    <span><span class="icon-fall"></span>3</span>
+                    <span><span class="icon-fall"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>江淮汽车</span><br>
+                <span>雅化集团</span><br>
                 <p>
-                    <span class="code">600418</span><i class="icon-rong">融</i>
+                    <span class="code">002497</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">11.64</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.75%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">25.82</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-2.38%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -2040,17 +2060,17 @@
 
                 <li>
                     <span class="rank-num">94</span>
-                    <span><span class="icon-fall"></span>3</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>中环股份</span><br>
+                <span>欧菲光</span><br>
                 <p>
-                    <span class="code">002129</span><i class="icon-rong">融</i>
+                    <span class="code">002456</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">29.12</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-3.93%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">14.52</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">3.42%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -2065,13 +2085,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>泉阳泉</span><br>
+                <span>苏常柴Ａ</span><br>
                 <p>
-                    <span class="code">600189</span>
+                    <span class="code">000570</span>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">16.04</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">0.50%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">7.39</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.64%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -2082,17 +2102,17 @@
 
                 <li>
                     <span class="rank-num">96</span>
-                    <span><span class="icon-rise"></span>1</span>
+                    <span><span class=""></span></span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>圣阳股份</span><br>
+                <span>中国中免</span><br>
                 <p>
-                    <span class="code">002580</span>
+                    <span class="code">601888</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">7.27</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-1.89%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">299.99</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-5.99%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -2107,13 +2127,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>格力电器</span><br>
+                <span>和而泰</span><br>
                 <p>
-                    <span class="code">000651</span><i class="icon-rong">融</i>
+                    <span class="code">002402</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">62.45</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-3.48%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">19.87</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.29%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -2124,17 +2144,17 @@
 
                 <li>
                     <span class="rank-num">98</span>
-                    <span><span class="icon-fall"></span>4</span>
+                    <span><span class="icon-fall"></span>1</span>
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>紫光国微</span><br>
+                <span>仁东控股</span><br>
                 <p>
-                    <span class="code">002049</span><i class="icon-rong">融</i>
+                    <span class="code">002647</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">143.63</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">2.04%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">9.79</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.03%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -2149,13 +2169,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>宜宾纸业</span><br>
+                <span>兴森科技</span><br>
                 <p>
-                    <span class="code">600793</span>
+                    <span class="code">002436</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">12.00</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">9.99%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">10.35</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">7.92%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
@@ -2170,13 +2190,13 @@
                 </li>
 
             <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-name">
-                <span>露笑科技</span><br>
+                <span>阳光电源</span><br>
                 <p>
-                    <span class="code">002617</span><i class="icon-rong">融</i>
+                    <span class="code">300274</span><i class="icon-rong">融</i>
                 </p>
             </li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-green">8.98</li>
-            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-green">-5.07%</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price font-red">88.20</li>
+            <li tracker-code="vip_dfcfrqb_bd_gg" class="stock-price-change font-red">1.48%</li>
             <li class="rank-detail" tracker-code="vip_dfcfrqb_bd_pmxq">排名<br>详情</li>
         </ul>
 
