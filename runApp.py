@@ -39,8 +39,8 @@ def server():
     """ 启动api服务 """
     click.echo(BANNER)
     click.echo("VERSION: %s\n" % VERSION)
-    from api.index import runFlask
-    runFlask()
+    from application.__init__ import runApp
+    runApp()
 
 
 if __name__ == '__main__':

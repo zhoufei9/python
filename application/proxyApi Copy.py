@@ -28,8 +28,8 @@ app = Flask(__name__)
 conf = ConfigHandler()
 proxy_handler = ProxyHandler()
 
-from api.investment import investment
-from api.proxy import proxy
+from application.actions.investment import investment
+from application.proxy import proxy
 
 app.register_blueprint(investment, url_prefix='/investment')
 app.register_blueprint(proxy, url_prefix='/proxy')
@@ -97,7 +97,6 @@ def getStatus():
     return status
 
 from urllib import request
-import requests
 from lxml import etree
 import json
 import re

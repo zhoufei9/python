@@ -32,6 +32,8 @@ HOST = "0.0.0.0"
 
 PORT = 5010
 
+LOCAL_RUL = 'http://127.0.0.1:5010'
+
 # ############### database config ###################
 # db connection uri
 # example:
