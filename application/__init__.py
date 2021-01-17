@@ -7,15 +7,17 @@ from util.six import iteritems
 from werkzeug.wrappers import Response
 from handler.configHandler import ConfigHandler
 
-
 app = Flask(__name__)
 conf = ConfigHandler()
 
 
-from . import routes,models
+
+from . import routes, models
 routes.init_app(app)
 
 
+# 注册中间件
+#返回的dict, list类型数据json序列化
 class JsonResponse(Response):
     @classmethod
     def force_type(cls, response, environ=None):
@@ -25,6 +27,7 @@ class JsonResponse(Response):
         return super(JsonResponse, cls).force_type(response, environ)
 
 app.response_class = JsonResponse
+
 
 def runApp():
     if platform.system() == "Windows":

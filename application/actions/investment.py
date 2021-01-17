@@ -7,8 +7,10 @@ import requests
 import json
 from setting import SHARES_TOKEN
 import tushare as ts
+import re
 from db.mysqlClient import DB
 from application.actions.notice import callme
+
 
 investment = Blueprint('investment',__name__)
 
@@ -68,10 +70,62 @@ def fixHotTop100():
     #todo
     return {"code": 0, "msg": 'fixHotTop100 ok'}
 
+# 修复排行榜统计数据
+@investment.route('/test/')
+def test():
+    date = time.strftime("%Y-%m-%d")
+    headers = get_headers()
+    textz = requests.get('https://hq.stock.sohu.com/zs/001/zs_000001-1.html?_=1610890037796', headers=headers)
+    textz = textz.text
+
+    # with open('test11.txt') as text:
+    #     textz = text.read()
+
+    textz = re.sub(r',\'quote_m_r.*$', '', textz)
+    textz = textz.replace('fortune_hq(', '').replace(');', '').replace('\'', '\"') + '}'
+    # print(textz);
+
+    c = json.loads(textz)
+    print(c);
+
+    shds = c['index'][0][2]
+    shzf = c['index'][0][3]
+    shjye = c['index'][0][6]
+    shsyl = c['stat'][12]
+    szds = c['index'][1][2]
+    szzf = c['index'][1][3]
+    szjye = c['index'][1][6]
+    szsyl = c['stat'][13]
+    zt = c['stat'][16]
+    dt = c['stat'][17]
+    zjye = str(int(c['index'][0][6]) + int(c['index'][1][6]))
+    zsz = int(c['stat'][2]) + int(c['stat'][3])
+    zxd = int(c['stat'][6]) + int(c['stat'][7])
+    zdb = round(zsz/zxd, 2)
+
+    up_str = ''
+    for up in c['plate_up']:
+        up_str += up[1] + '、'
+
+    down_str = ''
+    for down in c['plate_down']:
+        down_str += down[1] + '、'
+
+    up_str = up_str.rstrip('、')
+    down_str = down_str.rstrip('、')
+
+    strc = '截止收盘：沪指' + shzf + '，报' + shds + '点，交易额 ' + shjye + '亿，平均市盈率 ' + shsyl + '\
+    ，深成指' + szzf + '，报' + szds + ' 点 ，交易额 ' + szjye + '亿，平均市盈率 ' + szsyl + '\
+    两市交易额共' + zjye + '亿， 较上一交易日略微/大幅 缩量/涨量----改----。\
+    行业板块：' + up_str + '领涨，' + down_str + '领跌两市。 \
+    两市个股：上涨' + str(zsz) + '家，下跌' + str(zxd) + '家，涨跌比' + str(zdb) + '。其中涨停' + zt + '家，跌停' + dt + '家。'
+
+    return {"code": 0, "msg": strc}
+
 #采集html test
 @investment.route('/collectionHotTop100/')
 def collectionHotTop100():
-    with open('collectionHotTop100.txt') as text:
+    with open('test11') as text:
         textz = text.read()
     html = etree.HTML(textz)
     items = html.xpath('//div[@class="item"]')
