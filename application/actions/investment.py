@@ -71,11 +71,11 @@ def fixHotTop100():
     return {"code": 0, "msg": 'fixHotTop100 ok'}
 
 # 修复排行榜统计数据
-@investment.route('/test/')
-def test():
-    date = time.strftime("%Y-%m-%d")
+@investment.route('/getMarketData/')
+def getMarketData():
+    date = str(round(time.time() * 1000))
     headers = get_headers()
-    textz = requests.get('https://hq.stock.sohu.com/zs/001/zs_000001-1.html?_=1610890037796', headers=headers)
+    textz = requests.get('https://hq.stock.sohu.com/zs/001/zs_000001-1.html?_=' + date, headers=headers)
     textz = textz.text
 
     # with open('test11.txt') as text:
@@ -114,13 +114,19 @@ def test():
     up_str = up_str.rstrip('、')
     down_str = down_str.rstrip('、')
 
-    strc = '截止收盘：沪指' + shzf + '，报' + shds + '点，交易额 ' + shjye + '亿，平均市盈率 ' + shsyl + '\
-    ，深成指' + szzf + '，报' + szds + ' 点 ，交易额 ' + szjye + '亿，平均市盈率 ' + szsyl + '\
-    两市交易额共' + zjye + '亿， 较上一交易日略微/大幅 缩量/涨量----改----。\
-    行业板块：' + up_str + '领涨，' + down_str + '领跌两市。 \
-    两市个股：上涨' + str(zsz) + '家，下跌' + str(zxd) + '家，涨跌比' + str(zdb) + '。其中涨停' + zt + '家，跌停' + dt + '家。'
+    strc = '截止收盘：\n \
+    沪指' + shzf + '，报' + shds + '点，交易额 ' + shjye + '亿，平均市盈率 ' + shsyl + '\n \
+    深成指' + szzf + '，报' + szds + ' 点 ，交易额 ' + szjye + '亿，平均市盈率 ' + szsyl + '\n \
+    两市交易额共' + zjye + '亿， 较上一交易日略微/大幅 缩量/涨量----改----。\n \
+    行业板块：\n \
+     ' + up_str + '领涨，\n \
+      ' + down_str + '领跌两市。\n  \
+    两市个股：\n \
+    上涨' + str(zsz) + '家，下跌' + str(zxd) + '家，涨跌比' + str(zdb) + '。\n \
+    其中涨停' + zt + '家，跌停' + dt + '家。'
 
-    return {"code": 0, "msg": strc}
+    return strc
+
 
 #采集html test
 @investment.route('/collectionHotTop100/')
