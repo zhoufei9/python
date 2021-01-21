@@ -114,9 +114,12 @@ def getMarketData():
     up_str = up_str.rstrip('、')
     down_str = down_str.rstrip('、')
 
+    shzd = '涨' if shds.find('-') == -1 else '跌'
+    szzd = '涨' if szds.find('-') == -1 else '跌'
+
     strc = '截止收盘：\n \
-    沪指' + shzf + '，报' + shds + '点，交易额 ' + shjye + '亿，平均市盈率 ' + shsyl + '\n \
-    深成指' + szzf + '，报' + szds + ' 点 ，交易额 ' + szjye + '亿，平均市盈率 ' + szsyl + '\n \
+    沪指' + shzd + shzf + '，报' + shds + '点，交易额 ' + shjye + '亿，平均市盈率 ' + shsyl + '\n \
+    深成指' + szzd + szzf + '，报' + szds + ' 点 ，交易额 ' + szjye + '亿，平均市盈率 ' + szsyl + '\n \
     两市交易额共' + zjye + '亿， 较上一交易日略微/大幅 缩量/涨量----改----。\n \
     行业板块：\n \
      ' + up_str + '领涨，\n \
